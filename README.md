@@ -17,6 +17,8 @@ Individuare il file:
 
 "main.py" (scaricare il file)
 
+"spese.db" (scaricare il file)
+
 Cliccare con il tasto destro del mouse sul file "main.py".
 
 Selezionare:

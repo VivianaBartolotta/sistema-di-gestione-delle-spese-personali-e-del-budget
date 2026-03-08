@@ -46,3 +46,7 @@ GESTIONE SPESE PERSONALI
 5 - Esci
 
 Digitare il numero corrispondente all'operazione desiderata.
+
+#DEMO#
+
+individuare la cartella DEMO e scaricare il file.
